@@ -5,6 +5,7 @@
 // @include      *.youtube.com/*
 // @version      1.0
 // @copyright    2012+, Konstantin Budnikov and Ryan Laguna 
+// @license      (CC) Attribution Share Alike; http://creativecommons.org/licenses/by-sa/3.0/
 // ==/UserScript==
 // This uses JacaScript to replace the site-left-aligned CSS with site-center-aligned.
 document.body.className = document.body.className.replace('site-left-aligned', 'site-center-aligned');
