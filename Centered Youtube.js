@@ -10,6 +10,7 @@
 // @version      1.1
 // @copyright    2012+, Konstantin Budnikov and Ryan Laguna 
 // @license      (CC) Attribution Share Alike; http://creativecommons.org/licenses/by-sa/3.0/
+// @icon 		 http://img515.imageshack.us/img515/9339/youtubeuw.png
 // ==/UserScript==
 
 // This uses JacaScript to replace the site-left-aligned CSS with site-center-aligned.
