@@ -7,7 +7,7 @@
 // @match        https://*.youtube.com/*
 // @include      https://*.youtube.com/*
 // @include      http://*.youtube.com/*
-// @version      1.0
+// @version      1.1
 // @copyright    2012+, Konstantin Budnikov and Ryan Laguna 
 // @license      (CC) Attribution Share Alike; http://creativecommons.org/licenses/by-sa/3.0/
 // ==/UserScript==
